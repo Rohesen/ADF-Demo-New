@@ -1,0 +1,9 @@
+{
+	"name": "rohesendatafactorynewdemo",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1768991c-db4c-41f4-b774-7299581639bb",
+		"tenantId": "035f224c-ba60-4010-898c-2eb66239900b"
+	}
+}
